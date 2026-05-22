@@ -331,34 +331,7 @@ from:
 step_3_chromadb.py
 
 ```
----
 
-# 🌐 Live Demo
-
-Try the deployed application here:
-
-[Legal RAG Knowledge Analyst Live Demo](https://your-streamlit-link.streamlit.app)
-
-Example:
-
-```text
-https://legal-rag-analyst.streamlit.app
-```
-
----
-
-# 📸 Application Preview
-
-Upload legal PDF documents and ask questions such as:
-
-- What risks are mentioned?
-- Who are the stakeholders?
-- Explain payment terms
-- Summarize the agreement
-
-The application retrieves relevant document chunks and generates contextual answers with citations.
-
----
 
 # 🔮 Future Improvements
 
